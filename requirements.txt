@@ -1,0 +1,7 @@
+gradio
+langgraph
+langchain
+langchain-qwq
+pytest
+setuptools
+weaviate-client
